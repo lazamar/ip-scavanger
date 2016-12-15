@@ -1,0 +1,22 @@
+{
+  "name": "ip-scavenger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fantasy-future": "^1.0.0",
+    "ramda": "^0.22.1",
+    "ramda-fantasy": "^0.7.0",
+    "request": "^2.79.0"
+  },
+  "dependencies": {
+    "fantasy-future": "^1.0.0",
+    "ramda": "^0.22.1",
+    "request": "^2.79.0"
+  },
+  "description": ""
+}
